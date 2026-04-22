@@ -12,19 +12,19 @@ Data and analysis files come from HW 4.3 done by me (Naman), course materials an
 
 ## Current Plan
 
-Provide some information about what you intend to doe with the project. You can additionally refer the visitor to your detailed plan document.
+Current work focuses on maintaining a reproducible repository, tracking tasks through issues, and practicing GitHub workflows using branches, commits, and pull requests.
 
 ## Repo Structure
 
 - README.md : overview of the project and repository 
 - plan.md : goals, needs, and plan for the project and repo  
-- HW4.3.qmd : Quarto source file used for the assignment  
-- HW4.3.pdf : rendered PDF submitted for HW 4.3  
+- Reproducible_Data_Analysis.qmd : Quarto source file used for the assignment  
+- Reproducible_Data_Analysis.pdf : rendered PDF submitted for HW 4.3  
 - main branch : finalized version of the repository  
 - dev-Naman branch : development branch used for edits before merging through pull requests
 
 ## Authors
 
-Naman Joshi
-Penn State STAT 184
-Contact: nfj5099@psu.edu
+- Naman Joshi
+- Penn State STAT 184
+- Contact: nfj5099@psu.edu
